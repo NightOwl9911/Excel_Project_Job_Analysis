@@ -1,4 +1,4 @@
-# <h1 align="center"> Project - Job Analysis in Excel </h1>
+# <h1 align="center"> 📊 Project - Job Analysis in Excel </h1>
 
 <h2 align="center">  🔎 Introduction </h2>
 The following projects were created to demonstrate Excel proficiency after completing Luke Barousse’s Excel for Data Analytics course. They focus on practical data analysis tasks commonly used in data-related roles.
