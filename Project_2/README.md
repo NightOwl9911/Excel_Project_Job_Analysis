@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡ Job Analysis using Power Query and Power Pivot </h1>
 
-![Excel Dashboard](/Gifts/Excel%20Power%20Query%20Pivot.gif)
+![Excel Dashboard](/Gifts/Project_2/Excel%20Power%20Query%20Pivot.gif)
 
 ## 🗂️ Introduction
 Many times while researching the skills required to become a Data Analyst or Data Scientist, I found myself wondering which tools I should focus on learning—whether I should prioritize Tableau, Power BI, or both.
