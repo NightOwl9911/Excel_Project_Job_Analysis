@@ -26,7 +26,6 @@ In the project, the following Excel skills were used:
 #### - Power Query 🔍
 #### - Power Pivot 🔗
 
-
 ### Data Jobs Dataset 💿
 The dataset used in this project contains real-world job posting data from 2025. The dataset is available through Luke Barousse’s platform (datanerd.tech).
 
@@ -73,8 +72,19 @@ It provides valuable information that can be analyzed using Excel to explore dif
 
 ### Analysis 📊
 
+✨ **Insights**
+
+- The analysis shows a positive relationship between the number of skills requested in job postings and the median salary. Roles that require a broader set of skills tend to offer higher salaries.
+
+- Positions such as Business Analysts and Data Analysts generally offer lower salaries, which is partly associated with the smaller number of skills typically required for these roles.
+
+- The highest-paying roles tend to demand a more extensive skill set, particularly positions such as Senior Data Engineers and Data Scientists.
 
 ![Analysis Question 1](/Gifts/Project_2/Analysis_Question_1.png)
+
+🎯 **Implication**
+
+- The analysis shows that developing a broader set of complementary skills can help individuals qualify for and secure higher-paying roles, particularly when those skills align with the requirements of a specific data-related position.
 
 ## ✌️ What’s the salary for data jobs in different regions?
 
@@ -109,7 +119,17 @@ Median Salary:=MEDIAN('Data - 2025'[salary_year_avg])
 ```
 ### Analysis 📊
 
+✨ **Insights**
+- Data roles such as Senior Data Engineer and Senior Data Scientist lead the field with the highest median salaries both in the United States and globally, highlighting the demand for advanced data expertise.
+
+- The analysis also shows that salaries in the United States tend to be higher overall, making it an attractive location to pursue data-related roles, particularly in high-tech and senior-level positions such as Data Scientists and Senior roles.
+
+
 ![Analysis Question 2](/Gifts/Project_2/Analysis_Question_2.gif)
+
+🎯 **Implication**
+
+- The analysis helps inform salary negotiations by enabling professionals and employers to adjust their expectations and offers based on market standards, while also considering geographical differences.
 
 ## 🤟 What are the top skills of data professionals?
 
@@ -125,8 +145,18 @@ Median Salary:=MEDIAN('Data - 2025'[salary_year_avg])
 
 ### Analysis 📊
 
+✨ **Insights**
+- The analysis shows that SQL and Python are fundamental skills for most data roles, serving as the core foundation for data processing and analysis.
+
+- Cloud technologies such as AWS and Azure are increasingly important and are becoming essential skills for many data-related positions.
+
+- Data analysis and visualization tools such as Excel, Power BI, and Tableau are also in high demand, as it is important not only to process and analyze data but also to effectively communicate insights and results.
+
 ![Analysis Question 3](/Gifts/Project_2/Analysis_Question_3.png)
 
+🎯 **Implication**
+
+- The analysis allows us to identify the core skills that data professionals should focus on, as well as emerging technologies that are becoming increasingly important. This helps professionals stay aligned with industry trends and continue developing relevant skills.
 
 ## 🖖 What’s the pay of the top 10 skills?
 
@@ -139,7 +169,17 @@ Median Salary:=MEDIAN('Data - 2025'[salary_year_avg])
 
 ### Analysis 📊
 
+✨ **Insights**
+
+- Skills such as Python, SQL, AWS, and Excel are not only highly demanded in data roles but are also associated with higher median salaries. This makes them both core competencies to learn and attractive from a salary perspective, highlighting their critical importance in data-related positions.
+
+- Cloud and big data technologies such as Spark, AWS, Snowflake, and Azure are linked to some of the highest salaries while also appearing frequently in job postings. This combination of strong salary potential and high demand makes them essential skills for many data roles.
+
 ![Analysis Question 4](/Gifts/Project_2/Analysis_Question_4.png)
+
+🎯 **Implication**
+
+- The analysis helps professionals identify not only the essential skills needed to secure a data-related role, but also those that offer the greatest potential for higher income.
 
 ## 📢 Conclusion
 
