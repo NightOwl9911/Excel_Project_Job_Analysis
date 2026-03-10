@@ -117,6 +117,7 @@ This restricts user input to predefined values, preventing incorrect or inconsis
 ![Data Validation](/Gifts/Project_1/Data%20Validation.gif)
 
 ## 📍 Conclusion
-We created this dashboard to present salary trends across different data roles. The objective of the project was also to apply various Excel skills to enable users to explore the data and support career decision-making.
+I created this dashboard to present salary trends across different data roles. The objective of the project was also to apply various Excel skills to enable users to explore the data and support career decision-making.
 
 Through the dashboard, users can analyze **Median Salaries** across roles, identify the **Top Platforms** where job postings are most commonly listed, and review **Job Types** to understand the number of opportunities available based on schedule availability (e.g., full-time, part-time).
+
