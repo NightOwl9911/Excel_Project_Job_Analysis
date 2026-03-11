@@ -47,7 +47,7 @@ The data was organized in descending order based on the median salary for each d
 From the chart, we can identify salary trends across different data roles. Senior positions and Data Scientists receive the highest median salaries, while Analyst roles tend to have comparatively lower compensation.
 
 ### - Country Median Salaries - Map Chart
-![Country Median Salaries](/Gifts/Project_1/Countries%20Median%20Salaries%20-%20Map%20Chart.gif)
+![Country Median Salaries](/Gifts/Project_1/Countries%20Median%20Salaries%20-%20Map%20Chart.png)
 #### - Excel Features ⚙️
 A map chart was used to visualize the median salaries across different countries based on the locations of job postings.
 #### - Design choice ✏️
@@ -83,7 +83,7 @@ The formula generates the table below by returning the median salary based on th
 
 #### - Dashboard Implementation 🖥️
 
-![Dashboard Implementation 1](/Gifts/Project_1/Dashboard%20Implementation.gif)
+![Dashboard Implementation 1](/Gifts/Project_1/Dashboard%20Implementation.png)
 
 #### Count of Schedule Type 🕒
 ```excel
@@ -104,7 +104,7 @@ The formulas populate the table below, which give us a unique list of job schedu
 
 - #### Dashboard Implementation 🖥️
 
-![Dashboard Implementation 2](/Gifts/Project_1/Dashboard%20Implementation%202.gif)
+![Dashboard Implementation 2](/Gifts/Project_1/Dashboard%20Implementation%202.png)
 
 
 ### Data Validation 📡
