@@ -1,6 +1,6 @@
 <h1 align="center"> 🧮 Excel Salary Dashboard </h1>
 
-![Excel Dashboard](/Gifts/Project_1/Excel%20Dashboard.gif)
+![Excel Dashboard](/Gifts/Project_1/Excel%20Dashboard.png)
 
 ## 📇 Introduction
 
@@ -114,7 +114,7 @@ In the dashboard, Excel’s Data Validation feature was implemented using three 
 
 This restricts user input to predefined values, preventing incorrect or inconsistent entries while improving the overall usability, accuracy, and efficiency of the dashboard.
 
-![Data Validation](/Gifts/Project_1/Data%20Validation.gif)
+![Data Validation](/Gifts/Project_1/Data%20Validation.png)
 
 ## 📍 Conclusion
 I created this dashboard to present salary trends across different data roles. The objective of the project was also to apply various Excel skills to enable users to explore the data and support career decision-making.

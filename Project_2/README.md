@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡ Job Analysis using Power Query and Power Pivot </h1>
 
-![Excel Dashboard](/Gifts/Project_2/Excel%20Power%20Query%20Pivot.gif)
+![Excel Dashboard](/Gifts/Project_2/Excel%20Power%20Query%20Pivot.png)
 
 ## 🗂️ Introduction
 Many times while researching the skills required to become a Data Analyst or Data Scientist, I found myself wondering which tools I should focus on learning—whether I should prioritize Tableau, Power BI, or both.
@@ -125,7 +125,7 @@ Median Salary:=MEDIAN('Data - 2025'[salary_year_avg])
 - The analysis also shows that salaries in the United States tend to be higher overall, making it an attractive location to pursue data-related roles, particularly in high-tech and senior-level positions such as Data Scientists and Senior roles.
 
 
-![Analysis Question 2](/Gifts/Project_2/Analysis_Question_2.gif)
+![Analysis Question 2](/Gifts/Project_2/Analysis_Question_2.png)
 
 🎯 **Implication**
 
