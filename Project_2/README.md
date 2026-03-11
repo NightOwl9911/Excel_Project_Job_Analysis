@@ -64,11 +64,11 @@ It provides valuable information that can be analyzed using Excel to explore dif
 - Finally, the transformed queries were loaded into the Excel workbook to begin the analysis for the project.
     - Data 2025
 
-        ![Transformation load - Data 2025](/Gifts/Project_2/Transformation%20-%20Load%20-%20Data%202025.gif)
+        ![Transformation load - Data 2025](/Gifts/Project_2/Transformation%20-%20Load%20-%20Data%202025.png)
 
     - Data Skills
 
-        ![Transformation load - Data Skills](/Gifts/Project_2/Transformation%20-%20Load%20-%20Data%20Skills.gif)
+        ![Transformation load - Data Skills](/Gifts/Project_2/Transformation%20-%20Load%20-%20Data%20Skills.png)
 
 ### Analysis 📊
 
